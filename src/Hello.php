@@ -1,5 +1,5 @@
 <?php
-namespace Elcosystems\HelloWorld;
+namespace Elcosystems\Hello;
 
 class Hello {
     public function sayHello() {
