@@ -1,0 +1,15 @@
+{
+    "name": "elcosystems/hello",
+    "autoload": {
+        "psr-4": {
+            "Elcosystems\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elko aditya",
+            "email": "elkoadp@gmail.com"
+        }
+    ],
+    "require": {}
+}
