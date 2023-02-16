@@ -1,5 +1,5 @@
 {
-    "name": "elco-system/hello-world",
+    "name": "elcosystem/hello",
     "description": "Test Pertama ku",
     "autoload": {
         "psr-4": {
