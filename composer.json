@@ -1,0 +1,16 @@
+{
+    "name": "elco-system/hello-world",
+    "description": "Test Pertama ku",
+    "autoload": {
+        "psr-4": {
+            "ElcoSystem\\HelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elko aditya",
+            "email": "elkoadp@gmail.com"
+        }
+    ],
+    "require": {}
+}
