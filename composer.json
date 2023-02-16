@@ -1,4 +1,4 @@
-g{
+{
     "name": "elcosystems/hello",
     "autoload": {
         "psr-4": {
